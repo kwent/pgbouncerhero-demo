@@ -1,0 +1,12 @@
+# # This demo app is using the following environments variables instead this file.
+# # PGBOUNCERHERO_DATABASE_URL
+# # PGBOUNCERHERO_DB_INSTANCE_IDENTIFIER
+#
+# databases:
+#   master:
+#     url: <%= ENV["PGBOUNCER_MASTER_URL"] %>
+#   slave:
+#     url: <%= ENV["PGBOUNCER_SLAVE_URL"] %>
+#
+# # Time zone (defaults to app time zone)
+# # time_zone: "Pacific Time (US & Canada)"
