@@ -49,7 +49,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem 'pgbouncerhero'
+gem 'pgbouncerhero', git: 'https://github.com/kwent/pgbouncerhero', branch: 'kwent/cache_connection'
 gem 'semantic-ui-sass'
 gem 'haml-rails'
 gem 'pg'
