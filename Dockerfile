@@ -1,4 +1,4 @@
-FROM ruby:2.3.4
+FROM ruby:2.3.7
 
 MAINTAINER Quentin Rousseau <contact@quent.in>
 
