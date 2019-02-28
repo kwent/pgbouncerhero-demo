@@ -22,3 +22,6 @@
 
 # Git
 .git
+
+# Rvm
+.ruby-version
