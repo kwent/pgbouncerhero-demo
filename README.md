@@ -1,6 +1,6 @@
 # PgBouncerHero-Demo
 
-This is the demo app running on https://pgbouncerhero-demo.herokuapp.com demonstrating the usage of [pgbouncerhero](https://github.com/kwent/pgbouncerhero).
+This is the demo app running on https://pgbouncerhero-demo.herokuapp.com (Heroku killed it by removing the free plan sorry!) demonstrating the usage of [pgbouncerhero](https://github.com/kwent/pgbouncerhero).
 
 ## Installation
 
